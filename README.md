@@ -74,8 +74,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Versión de Git](evidencias/01\_version\_git.png)
-
+![Versión de Git](./evidencias/01_version_git.png)
 
 
 **Configuración de usuario y correo**
