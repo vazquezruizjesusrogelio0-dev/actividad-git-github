@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primer repositorio</title>
+</head>
+<body>
+    <h1>Hola, Git y GitHub</h1>
+    <p>Este es mi primer proyecto utilizando Git.</p>
+</body>
+</html>
