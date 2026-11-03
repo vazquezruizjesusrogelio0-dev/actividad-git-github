@@ -81,15 +81,14 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Configuración de Git](./evidencias/02\_configuracion.png)
-
+![Configuración de Git](./evidencias/02_configuracion.png)
 
 
 **Creación del repositorio local**
 
 
 
-!\[Git init](./evidencias/03\_git\_init.png)
+![Git init](./evidencias/03\_git\_init.png)
 
 
 
@@ -97,7 +96,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Creación del archivo](./evidencias/04\_creacion\_archivo.png)
+![Creación del archivo](./evidencias/04\_creacion\_archivo.png)
 
 
 
@@ -105,7 +104,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Git status](./evidencias/05\_git\_status\_index\_txt.png)
+![Git status](./evidencias/05\_git\_status\_index\_txt.png)
 
 
 
@@ -113,7 +112,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Git add](./evidencias/06\_git\_add\_index\_txt.png)
+![Git add](./evidencias/06\_git\_add\_index\_txt.png)
 
 
 
@@ -121,7 +120,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Primer commit](./evidencias/07\_primer\_commit.png)
+![Primer commit](./evidencias/07\_primer\_commit.png)
 
 
 
@@ -129,7 +128,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Git log](./evidencias/08\_git\_log.png)
+![Git log](./evidencias/08\_git\_log.png)
 
 
 
@@ -137,7 +136,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Creación del repositorio](./evidencias/09\_creacion\_repositorio\_github.png)
+![Creación del repositorio](./evidencias/09\_creacion\_repositorio\_github.png)
 
 
 
@@ -145,7 +144,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Conexión con GitHub](./evidencias/10\_conexion\_github\_https.png)
+![Conexión con GitHub](./evidencias/10\_conexion\_github\_https.png)
 
 
 
@@ -153,7 +152,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Primer push](./evidencias/11\_primer\_push\_github.png)
+![Primer push](./evidencias/11\_primer\_push\_github.png)
 
 
 
@@ -161,7 +160,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Primer archivo](./evidencias/12\_primer\_archivo\_github.png)
+![Primer archivo](./evidencias/12\_primer\_archivo\_github.png)
 
 
 
@@ -169,7 +168,7 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-!\[Corrección del archivo](./evidencias/13\_correccion\_extension\_y\_status.png)
+![Corrección del archivo](./evidencias/13\_correccion\_extension\_y\_status.png)
 
 
 
@@ -177,7 +176,7 @@ Agregar los cambios corregidos
 
 
 
-!\[Git add -A](./evidencias/14\_git\_add\_correccion.png)
+![Git add -A](./evidencias/14\_git\_add\_correccion.png)
 
 
 
@@ -185,7 +184,7 @@ Segundo commit
 
 
 
-!\[Segundo commit](./evidencias/15\_segundo\_commit.png)
+![Segundo commit](./evidencias/15\_segundo\_commit.png)
 
 
 
@@ -193,7 +192,7 @@ Segundo commit
 
 
 
-!\[Archivo HTML corregido](./evidencias/16\_archivo\_html\_corregido\_github.png)
+![Archivo HTML corregido](./evidencias/16\_archivo\_html\_corregido\_github.png)
 
 
 
@@ -201,7 +200,7 @@ Segundo commit
 
 
 
-!\[Repositorio final](./evidencias/17\_repositorio\_final.png)
+![Repositorio final](./evidencias/17\_repositorio\_final.png)
 
 
 
@@ -209,7 +208,7 @@ Segundo commit
 
 
 
-!\[Creación del README](./evidencias/18\_creacion\_readme.png)
+![Creación del README](./evidencias/18\_creacion\_readme.png)
 
 
 
@@ -217,9 +216,9 @@ Segundo commit
 
 
 
-!\[Subida del README](./evidencias/19\_subida\_readme\_github.png)
+![Subida del README](./evidencias/19\_subida\_readme\_github.png)
 
-!\[Git add -A](./evidencias/14\_git\_add\_correccion.png)
+![Git add -A](./evidencias/14\_git\_add\_correccion.png)
 
 
 
@@ -227,7 +226,7 @@ Segundo commit
 
 
 
-!\[Segundo commit](./evidencias/15\_segundo\_commit.png)
+![Segundo commit](./evidencias/15\_segundo\_commit.png)
 
 
 
@@ -235,7 +234,7 @@ Segundo commit
 
 
 
-!\[Archivo HTML corregido](./evidencias/16\_archivo\_html\_corregido\_github.png)
+![Archivo HTML corregido](./evidencias/16\_archivo\_html\_corregido\_github.png)
 
 
 
@@ -243,7 +242,7 @@ Segundo commit
 
 
 
-!\[Repositorio final](./evidencias/17\_repositorio\_final.png)
+![Repositorio final](./evidencias/17\_repositorio\_final.png)
 
 
 
@@ -251,7 +250,7 @@ Segundo commit
 
 
 
-!\[Creación del README](./evidencias/18\_creacion\_readme.png)
+![Creación del README](./evidencias/18\_creacion\_readme.png)
 
 
 
@@ -259,7 +258,7 @@ Segundo commit
 
 
 
-!\[Subida del README](./evidencias/19\_subida\_readme\_github.png)
+![Subida del README](./evidencias/19\_subida\_readme\_github.png)
 
 
 
