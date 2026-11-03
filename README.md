@@ -172,51 +172,9 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
-Agregar los cambios corregidos
+**Agregar los cambios corregidos**
 
 
-
-![Git add -A](./evidencias/14\_git\_add\_correccion.png)
-
-
-
-Segundo commit
-
-
-
-![Segundo commit](./evidencias/15\_segundo\_commit.png)
-
-
-
-**Archivo HTML corregido en GitHub**
-
-
-
-![Archivo HTML corregido](./evidencias/16\_archivo\_html\_corregido\_github.png)
-
-
-
-**Repositorio final con los dos archivos**
-
-
-
-![Repositorio final](./evidencias/17\_repositorio\_final.png)
-
-
-
-**Creación del archivo README**
-
-
-
-![Creación del README](./evidencias/18\_creacion\_readme.png)
-
-
-
-**Subida del README a GitHub**
-
-
-
-![Subida del README](./evidencias/19\_subida\_readme\_github.png)
 
 ![Git add -A](./evidencias/14\_git\_add\_correccion.png)
 
