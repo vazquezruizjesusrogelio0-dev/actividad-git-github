@@ -70,6 +70,200 @@ También tuve que revisar algunos comandos para asegurarme de que los archivos s
 
 
 
+**Verificación de la versión de Git**
+
+
+
+!\[Versión de Git](evidencias/01\_version\_git.png)
+
+
+
+**Configuración de usuario y correo**
+
+
+
+!\[Configuración de Git](evidencias/02\_configuracion.png)
+
+
+
+**Creación del repositorio local**
+
+
+
+!\[Git init](evidencias/03\_git\_init.png)
+
+
+
+**Creación del archivo HTML**
+
+
+
+!\[Creación del archivo](evidencias/04\_creacion\_archivo.png)
+
+
+
+**Primer estado del repositorio**
+
+
+
+!\[Git status](evidencias/05\_git\_status\_index\_txt.png)
+
+
+
+**Agregar el archivo al seguimiento**
+
+
+
+!\[Git add](evidencias/06\_git\_add\_index\_txt.png)
+
+
+
+**Primer commit**
+
+
+
+!\[Primer commit](evidencias/07\_primer\_commit.png)
+
+
+
+**Consultar el historial de cambios**
+
+
+
+!\[Git log](evidencias/08\_git\_log.png)
+
+
+
+**Creación del repositorio en GitHub**
+
+
+
+!\[Creación del repositorio](evidencias/09\_creacion\_repositorio\_github.png)
+
+
+
+**Conexión del repositorio local con GitHub**
+
+
+
+!\[Conexión con GitHub](evidencias/10\_conexion\_github\_https.png)
+
+
+
+**Primer envío del proyecto a GitHub**
+
+
+
+!\[Primer push](evidencias/11\_primer\_push\_github.png)
+
+
+
+**Primer archivo subido a GitHub**
+
+
+
+!\[Primer archivo](evidencias/12\_primer\_archivo\_github.png)
+
+
+
+**Corrección de la extensión del archivo**
+
+
+
+!\[Corrección del archivo](evidencias/13\_correccion\_extension\_y\_status.png)
+
+
+
+Agregar los cambios corregidos
+
+
+
+!\[Git add -A](evidencias/14\_git\_add\_correccion.png)
+
+
+
+Segundo commit
+
+
+
+!\[Segundo commit](evidencias/15\_segundo\_commit.png)
+
+
+
+**Archivo HTML corregido en GitHub**
+
+
+
+!\[Archivo HTML corregido](evidencias/16\_archivo\_html\_corregido\_github.png)
+
+
+
+**Repositorio final con los dos archivos**
+
+
+
+!\[Repositorio final](evidencias/17\_repositorio\_final.png)
+
+
+
+**Creación del archivo README**
+
+
+
+!\[Creación del README](evidencias/18\_creacion\_readme.png)
+
+
+
+**Subida del README a GitHub**
+
+
+
+!\[Subida del README](evidencias/19\_subida\_readme\_github.png)
+
+!\[Git add -A](evidencias/14\_git\_add\_correccion.png)
+
+
+
+**Segundo commit**
+
+
+
+!\[Segundo commit](evidencias/15\_segundo\_commit.png)
+
+
+
+**Archivo HTML corregido en GitHub**
+
+
+
+!\[Archivo HTML corregido](evidencias/16\_archivo\_html\_corregido\_github.png)
+
+
+
+**Repositorio final con los dos archivos**
+
+
+
+!\[Repositorio final](evidencias/17\_repositorio\_final.png)
+
+
+
+**Creación del archivo README**
+
+
+
+!\[Creación del README](evidencias/18\_creacion\_readme.png)
+
+
+
+**Subida del README a GitHub**
+
+
+
+!\[Subida del README](evidencias/19\_subida\_readme\_github.png)
+
+
+
 En el documento PDF se incluyen las capturas de pantalla de los pasos que realicé durante la práctica, desde la configuración de Git y la creación del repositorio hasta la subida de los archivos a GitHub.
 
 
